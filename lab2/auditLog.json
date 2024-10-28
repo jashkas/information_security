@@ -1,0 +1,560 @@
+[
+  {
+    "timestamp": "2024-10-10T15:33:47.370Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-10T15:33:49.951Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-15T15:33:47.370Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-15T15:33:49.951Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-20T15:33:47.370Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-20T15:33:49.951Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:33:47.370Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:33:49.951Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:33:59.773Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:34:04.994Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:36:46.883Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:36:50.405Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:36:51.482Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:36:56.660Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:42:08.226Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:48:11.569Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:48:12.867Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:48:18.193Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:48:29.865Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:48:36.956Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:48:39.280Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T15:48:42.664Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:48:55.682Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:50:05.166Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:50:34.682Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T15:51:24.361Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T17:16:28.489Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T17:17:05.830Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:06:12.951Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T18:18:31.179Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T18:18:34.475Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:19:10.372Z",
+    "eventType": "user_logout",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:19:13.303Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:34:48.312Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:45:14.849Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T18:45:15.918Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T18:45:22.264Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:45:51.760Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:46:23.233Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:47:09.824Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:47:29.406Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:48:10.758Z",
+    "eventType": "user_logout",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:48:16.249Z",
+    "eventType": "user_authorize",
+    "userLogin": "1",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:48:19.344Z",
+    "eventType": "user_logout",
+    "userLogin": "1",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:48:20.794Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:59:20.254Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T18:59:21.074Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T18:59:26.306Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T18:59:54.050Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T19:00:29.141Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T19:01:47.058Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T19:05:53.010Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T19:05:55.247Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T19:06:00.243Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T19:07:19.983Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T19:10:32.120Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T19:10:33.182Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-24T19:10:38.042Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-24T19:20:07.820Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-25T02:52:28.242Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-25T02:52:34.937Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T02:53:41.681Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T02:54:23.165Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T02:54:26.105Z",
+    "eventType": "user_logout",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T02:54:27.345Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T02:55:34.400Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T02:56:19.960Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:14:40.924Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:16:38.446Z",
+    "eventType": "user_logout",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:16:59.558Z",
+    "eventType": "user_authorize",
+    "userLogin": "Nominant",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:26:17.313Z",
+    "eventType": "user_authorize",
+    "userLogin": "headbreakKit",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:26:51.334Z",
+    "eventType": "user_logout",
+    "userLogin": "headbreakKit",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:27:10.935Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:27:44.796Z",
+    "eventType": "user_logout",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:27:48.333Z",
+    "eventType": "unauthorized_access_attempt",
+    "userLogin": "headbreakKit",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:27:58.938Z",
+    "eventType": "unauthorized_access_attempt",
+    "userLogin": "headbreakKit",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:28:01.366Z",
+    "eventType": "account_blockedПревышен лимит неверного входа",
+    "userLogin": "headbreakKit",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:28:17.118Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-25T03:32:03.306Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-28T05:19:05.862Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-28T05:19:14.424Z",
+    "eventType": "user_authorize",
+    "userLogin": "headbreakKit",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-28T05:21:04.793Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-28T05:21:06.009Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-28T05:21:11.001Z",
+    "eventType": "user_authorize",
+    "userLogin": "headbreakKit",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-28T05:22:43.369Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-28T05:22:44.344Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-28T05:22:48.776Z",
+    "eventType": "user_authorize",
+    "userLogin": "headbreakKit",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-28T05:23:02.101Z",
+    "eventType": "user_logout",
+    "userLogin": "headbreakKit",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-28T05:23:08.429Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-28T05:25:37.102Z",
+    "eventType": "system_start",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  },
+  {
+    "timestamp": "2024-10-28T05:25:43.920Z",
+    "eventType": "unauthorized_access_attempt",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-28T05:25:55.975Z",
+    "eventType": "user_authorize",
+    "userLogin": "admin",
+    "workstationId": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36"
+  },
+  {
+    "timestamp": "2024-10-28T05:26:42.778Z",
+    "eventType": "system_stop",
+    "userLogin": "system",
+    "workstationId": "N/A"
+  }
+]

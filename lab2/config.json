@@ -1,0 +1,5 @@
+{
+    "maxLoginAttempts": "4",
+    "blockTime": "1800002",
+    "lockAccessTime": "1800000"
+}
