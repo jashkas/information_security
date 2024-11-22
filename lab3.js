@@ -2,7 +2,7 @@
 const fs = require('fs');
 
 filePath = process.argv[2]==undefined ? "lab3_text.txt" : process.argv[2];
-
+/*
 fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
         console.error('Произошла ошибка при чтении файла:', err);
@@ -10,8 +10,43 @@ fs.readFile(filePath, 'utf8', (err, data) => {
     }
 
     console.log('Содержимое файла:', data);
-    console.log('Разархивированный текст:', decompressLZ77(data));
+    sizeFile(filePath);
+
+    new_data = decompressLZ77(data)
+    filePath = 'lab3_text_decompressLZ77.txt'
+    fs.writeFile('lab3_text_decompressLZ77.txt', new_data, (err) => {
+        if (err) {
+            console.error('Произошла ошибка при записи файла:', err);
+            return;
+        }
+    });
+    fs.readFile('lab3_text_decompressLZ77.txt', 'utf8', (err, data) => {
+        if (err) {
+            console.error('Произошла ошибка при чтении файла:', err);
+            return;
+        }
+    
+        console.log('Разархивированный текст:', data);
+        sizeFile(filePath);
+    });
 });
+*/
+console.log('№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№')
+
+filePath = process.argv[2]==undefined ? "lab3_text.txt" : process.argv[2];
+var data = fs.readFileSync(filePath, 'utf8');
+console.log('Содержимое файла2:', data);
+var data_size = fs.statSync(filePath, 'utf8');
+console.log(`Размер файла: ${data_size.size} байт`)
+
+filePath = 'lab3_text_decompressLZ77.txt';
+data = decompressLZ77(data);
+fs.writeFileSync(filePath, data);
+console.log('Разархивированный текст:', data);
+data_size = fs.statSync(filePath, 'utf8');
+console.log(`Размер файла: ${data_size.size} байт`)
+
+
 
 function decompressLZ77(encoded) {
     let output = [];
@@ -71,4 +106,33 @@ function checkLast_symbols(output) {
         output.pop();  // удаление последних '_', кроме одного
     }
     return output;
+}
+
+function sizeFile(filePath) {
+    fs.statSync(filePath, 'utf8', (err, stats) => {
+        if (err) {
+            console.error('Ошибка при получении информации о файле:', err);
+            return;
+        }
+        console.log(`Размер файла: ${stats.size} байт`);
+    });
+}
+
+function readFile(filePath) {
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            console.error('Произошла ошибка при чтении файла:', err);
+            return;
+        }
+        return data;
+    });
+}
+
+function writeFile(filePath='lab3_text_decompressLZ77.txt', data) {
+    fs.writeFile(filePath, data, (err) => {
+        if (err) {
+            console.error('Произошла ошибка при записи файла:', err);
+            return;
+        }
+    });
 }
